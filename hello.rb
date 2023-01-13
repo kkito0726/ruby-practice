@@ -9,9 +9,7 @@ else
     
 end
 
-for i in enumerable do
-    
-end
+
 
 p greeting.length
 p greeting.class
